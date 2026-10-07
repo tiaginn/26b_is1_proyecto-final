@@ -7,7 +7,10 @@
 
 
 
+
 ## Team 2: Modulo Inscripciones
+
+\- SANTIAGO CUEVAS SANCHEZ 
 
 
 
@@ -32,7 +35,4 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
-
-
-
 
