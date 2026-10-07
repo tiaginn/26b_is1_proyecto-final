@@ -10,8 +10,7 @@
 
 ## Team 2: Modulo Inscripciones
 
-1. Santiago Cuevas Sanchezs
-
+4. Santiago Cuevas Sanchez
 
 
 
