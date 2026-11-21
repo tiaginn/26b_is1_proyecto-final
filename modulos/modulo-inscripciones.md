@@ -68,7 +68,20 @@ admin --> UC8
 @enduml
 ```
 
-![Diagrama de Casos de Uso](resources/imgs/m2_inscripciones_casos_uso.png)
+
+
+## 6. Abreviaciones
+- **BD:** Base de Datos.
+- **UI:** Interfaz de Usuario (*User Interface*).
+
+## 7. Requerimientos No Funcionales (RNF)
+* *Usabilidad:* La interfaz debe ser intuitiva, permitiendo completar el proceso de inscripción en no más de 4 pasos guiados.
+* *Rendimiento:* El tiempo de respuesta del sistema para confirmar y guardar la inscripción no debe superar los 2 segundos.
+* *Integridad de datos:* El sistema debe garantizar que dos alumnos no puedan ocupar el último cupo disponible al mismo tiempo (control de concurrencia básico).
+* *Disponibilidad:* El módulo debe estar disponible de forma continua durante los periodos oficiales de inscripción establecidos por la coordinación.
+* *Compatibilidad:* La interfaz debe ser accesible y funcional desde cualquier navegador web moderno (Chrome, Firefox, Edge).
+
+  ![Diagrama de Casos de Uso](resources/imgs/m2_inscripciones_casos_uso.png)
 # 5.2 Diagramas de estado
 
 ## 5.2.1 Diagrama de estado: Seleccionar materias
@@ -190,14 +203,3 @@ end note
 
 ---
 
-
-## 6. Abreviaciones
-- **BD:** Base de Datos.
-- **UI:** Interfaz de Usuario (*User Interface*).
-
-## 7. Requerimientos No Funcionales (RNF)
-* *Usabilidad:* La interfaz debe ser intuitiva, permitiendo completar el proceso de inscripción en no más de 4 pasos guiados.
-* *Rendimiento:* El tiempo de respuesta del sistema para confirmar y guardar la inscripción no debe superar los 2 segundos.
-* *Integridad de datos:* El sistema debe garantizar que dos alumnos no puedan ocupar el último cupo disponible al mismo tiempo (control de concurrencia básico).
-* *Disponibilidad:* El módulo debe estar disponible de forma continua durante los periodos oficiales de inscripción establecidos por la coordinación.
-* *Compatibilidad:* La interfaz debe ser accesible y funcional desde cualquier navegador web moderno (Chrome, Firefox, Edge).
