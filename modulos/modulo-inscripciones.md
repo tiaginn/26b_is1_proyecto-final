@@ -67,7 +67,7 @@ admin --> UC8
 
 @enduml
 ```
-
+![Diagrama de Casos de Uso](resources/imgs/m2_inscripciones_casos_uso.png)
 
 
 ## 6. Abreviaciones
@@ -81,7 +81,7 @@ admin --> UC8
 * *Disponibilidad:* El módulo debe estar disponible de forma continua durante los periodos oficiales de inscripción establecidos por la coordinación.
 * *Compatibilidad:* La interfaz debe ser accesible y funcional desde cualquier navegador web moderno (Chrome, Firefox, Edge).
 
-  ![Diagrama de Casos de Uso](resources/imgs/m2_inscripciones_casos_uso.png)
+  
 # 5.2 Diagramas de estado
 
 ## 5.2.1 Diagrama de estado: Seleccionar materias
