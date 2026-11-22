@@ -30,6 +30,8 @@
 
 ## 5.1 Diagramas UML (casos de uso, clases, secuencia, etc.)
 
+{TODO - vista general de los modulos - diagrama de herencia de usuarios/roles/actores}
+
 {TODO - vista general de los modulos - diagrama de casos de uso}
 
 {TODO - vista general de los modulos - diagrama de componentes}
@@ -37,7 +39,14 @@
 ## 5.2 Interfaz de usuario (mockups, wireframes)
 
 # Índice de Módulos
+-
 - [Módulo 2: Inscripciones](./modulos/modulo-inscripciones.md)
+- 
+- [Módulo 4: Asignaturas/Materias](./modulos/m4_asignaturas.md)
+
+## Autenticación y autorización
+
+{TODO - tabla de aginacion de permisos roles versus modulos}
 
 # Abreviaturas
 
